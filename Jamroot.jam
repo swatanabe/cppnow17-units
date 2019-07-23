@@ -1,0 +1,3 @@
+
+use-project /boost : ../boost-git ;
+project : requirements <include>include <include>../boost-git <define>BOOST_ALL_NO_LIB ;
